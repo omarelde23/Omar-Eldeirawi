@@ -1,1 +1,15 @@
-# Omar-Eldeirawi
+Omar Eldeirawi | Software Development Engineer in Test (SDET)
+Analytical and impact-oriented SDET with 5 years of experience designing, developing, and maintaining automated test frameworks to ensure high-quality software delivery. Adept at bridging the gap between QA and development through robust automation, data-driven strategies, and strong CI/CD practices.My focus is on reducing test cycle time and boosting automation stability across multi-component systems, using modern tools like Playwright and Cypress.
+
+🚀 Technical HighlightsSkill AreaKey CompetencyResult/Impact (from Resume)Framework DesignPlaywright (TypeScript/Node.js) & Cypress (JavaScript)Reduced test cycle time from 3 days to 1 day and increased regression coverage by 50% across multiple projects.Data ValidationAdvanced SQL (Oracle, MSSQL, MySQL)Wrote complex SQL queries to validate backend data accuracy against front-end UI behavior during integration testing. CI/CD & StabilityJenkins Integration, Flaky Test HandlingImproved deployment speed and reliability by implementing tailored scripts and advanced trace logging, boosting stability across environments. API TestingPostman and REST-APIsBuilt and maintained API test suites to validate endpoints for user management, reporting, and critical data flow integrity.MethodologiesBehavior-Driven Development (BDD) using Gherkin/Cucumber.Engineered secure user authentication flows, enhancing test coverage by 60% and reducing critical security vulnerabilities.
+
+🧪 Key Projects & Experience:
+1. Visualizer Application End-to-End Suite (Floor & Decor)Context: Developed and maintained automated UI and E2E tests for the customer-facing Visualizer application, ensuring a seamless experience for visualizing products in user-uploaded spaces.Contribution: Built a scalable Playwright framework supporting over 150 automated scenarios, resulting in a 50% reduction in manual testing effort.Skills Demonstrated: Playwright, TypeScript, Complex UI Automation, Cross-functional collaboration.
+2. Enterprise Employee Portal Automation (Purple Drive Technologies)Context: Designed and executed regression suites for an internal employee hub covering HR, payroll, and internal updates.Contribution: Cut overall test cycle time by 30% through optimized, data-driven Cypress automation. Designed reusable, modular test utilities, reducing automation maintenance efforts by 40%.Skills Demonstrated: Cypress, JavaScript, Modular Design, Data-Driven Testing.
+3. Integration & Data Flow ReliabilityContext: Ensuring data consistency across the front-end application and backend systems.Contribution: Wrote and optimized complex SQL queries to validate data integrity. Conducted thorough integration testing to ensure data accuracy and system reliability between all layers.Skills Demonstrated: SQL (Oracle, MSSQL, MySQL), Integration Testing, Data Validation.
+
+🛠️ Languages and ToolsCategoryProficient Tools/LanguagesLanguagesJavaScript, TypeScript, SQL, Gherkin, Node.js, HTML/CSSAutomationPlaywright, Cypress, Cucumber, Postman, Mocha, ChaiDatabaseOracle SQL, MSSQL, MySQLCI/CD & VCJenkins, Git, GitHub/GitLab
+
+🌐 Connect with Me:
+LinkedIn: https://www.linkedin.com/in/omar-eldeirawi-a8a72735b/
+Email: omareldeirawi23@gmail.com
